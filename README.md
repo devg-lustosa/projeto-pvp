@@ -37,15 +37,16 @@ A classe `Stage` interage diretamente com o HTML:
 ---
 
 ## ⚙️ Estrutura do Projeto
+```
 📁 projeto-luta
 │
 ├── index.html
 ├── assets/
-│ ├── style.css
-│ └── js/
-│ ├── classes.js
-│ └── script.js
-
+│   ├── style.css
+│   └── js/
+│       ├── classes.js
+│       └── script.js
+```
 
 ---
 
@@ -57,3 +58,41 @@ A classe `Stage` interage diretamente com o HTML:
    ```js
    let char = new Knight("Arthur");
    let monster = new LittleMonster();
+   ```
+   Você pode substituir, por exemplo:
+   ```js
+   let char = new Sorcerer("Merlin");
+   let monster = new BigMonster();
+   ```
+   Assim, cria novas combinações de batalha 🔥
+
+---
+
+## 💬 Exemplo do Log
+```
+Arthur causou 12.45 de dano em Little Monster
+Little Monster conseguiu defender...
+```
+O log mostra os resultados de cada ataque e defesa em tempo real.
+
+---
+
+## 💡 Possíveis Melhorias Futuras
+- Selecionar personagens antes de começar o jogo.  
+- Adicionar animações de ataque e defesa.  
+- Inserir sons e trilha sonora.  
+- Criar um modo automático de batalha.  
+- Sistema de pontuação e ranking.
+
+---
+
+## 🧑‍💻 Tecnologias Utilizadas
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (ES6+)**
+
+---
+
+## 🪪 Licença
+Este projeto foi desenvolvido com fins **educacionais** e **experimentais**.  
+Sinta-se livre para estudar, modificar e melhorar!
