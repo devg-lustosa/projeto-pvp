@@ -1,7 +1,7 @@
 let log = new Log(document.querySelector(".log"));
 
-let char = new Sorcerer("Pala");
-let monster = new BigMonster();
+let char = new Knight("Bárbaro");
+let monster = new LitterMonster();
 
 const stage = new Stage(
   char,
@@ -12,3 +12,4 @@ const stage = new Stage(
 );
 
 stage.start();
+
