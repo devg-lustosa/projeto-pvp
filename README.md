@@ -10,7 +10,7 @@ Neste jogo, o **Guerreiro (Knight)** enfrenta o **Little Monster** em um duelo p
 
 ## 🎮 Como Jogar
 1. Acesse o link abaixo para jogar:  
-   👉 [**Jogar o Projeto Luta**](https://seu-link-aqui.com)  
+   👉 [**Jogar o Projeto Luta**](https://projeto-pvp.vercel.app/)  
    *(adicione o link quando publicar no GitHub Pages, por exemplo: `https://seuusuario.github.io/projeto-luta/`)*  
 2. Clique no botão **Atacar** para realizar golpes contra o oponente.  
 3. A barra de vida e os nomes dos personagens atualizam em tempo real.  
